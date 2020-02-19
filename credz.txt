@@ -1,0 +1,18 @@
+GitHub Secrets
+--------------
+FUNC_APP => rock_psfuncapp
+STORAGE_ACCOUNT => rock_psstorage
+STORAGE_KEY =>
+CREDENTIALS =>
+{
+  "clientId": "38edd36f-55e4-4823-b644-19dd7813100b",
+  "clientSecret": "0e0cdd80-1897-42a8-83ab-41f161ce7c26",
+  "subscriptionId": "7916ec87-9870-4986-8081-355f3099dfe7",
+  "tenantId": "7d96b9a9-89e0-4dde-b22c-1d535cfe2828",
+  "activeDirectoryEndpointUrl": "https://login.microsoftonline.com",
+  "resourceManagerEndpointUrl": "https://management.azure.com/",
+  "activeDirectoryGraphResourceId": "https://graph.windows.net/",
+  "sqlManagementEndpointUrl": "https://management.core.windows.net:8443/",
+  "galleryEndpointUrl": "https://gallery.azure.com/",
+  "managementEndpointUrl": "https://management.core.windows.net/"
+}

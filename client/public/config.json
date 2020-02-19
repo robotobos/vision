@@ -1,4 +1,4 @@
 {
-    "saveEndpoint": "http://localhost:7071/api/save",
+    "saveEndpoint": "mattrps123funcapp",
     "maxSubmitCount": 4
 }
